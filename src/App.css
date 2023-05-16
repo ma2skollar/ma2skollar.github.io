@@ -40,3 +40,55 @@
 .read-the-docs {
   color: #888;
 }
+
+.signature-container {
+  height: 500px;
+  width: auto;
+}
+
+.container {
+  enable-background:new 0 0 841.9 595.3;
+  height: 100%;
+  width: 100%;
+}
+
+.st0 {
+  animation: sign 1s ease;
+  animation-fill-mode: forwards;
+}
+
+@keyframes sign {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+#signature1 {
+  stroke-dasharray: 394;
+  stroke-dashoffset: 394;
+  animation-delay: 0s;
+}
+
+#signature2 {
+  stroke-dasharray: 501;
+  stroke-dashoffset: 501;
+  animation-delay: 1s;
+}
+
+#signature3 {
+  stroke-dasharray: 312;
+  stroke-dashoffset: 312;
+  animation-delay: 2s;
+}
+
+#signature4 {
+  stroke-dasharray: 258;
+  stroke-dashoffset: 258;
+  animation-delay: 3s;
+}
+
+#signature5 {
+  stroke-dasharray: 316;
+  stroke-dashoffset: 316;
+  animation-delay: 4s;
+}
