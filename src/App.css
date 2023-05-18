@@ -78,17 +78,17 @@
 #signature3 {
   stroke-dasharray: 312;
   stroke-dashoffset: 312;
-  animation-delay: 2s;
+  animation-delay: 1.5s;
 }
 
 #signature4 {
   stroke-dasharray: 258;
   stroke-dashoffset: 258;
-  animation-delay: 3s;
+  animation-delay: 2s;
 }
 
 #signature5 {
   stroke-dasharray: 316;
   stroke-dashoffset: 316;
-  animation-delay: 4s;
+  animation-delay: 3s;
 }

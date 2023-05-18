@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <h1>Portfolio</h1>
-      <h3>Matus Kollar</h3>
+      <h2>Matus Kollar</h2>
+      <h3>Welcome to my Portfolio!</h3>
       <div className="signature-container">
         <svg
           version="1.1"
