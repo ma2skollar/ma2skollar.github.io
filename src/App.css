@@ -5,90 +5,19 @@
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-}
-
-.signature-container {
-  height: 500px;
-  width: auto;
-}
-
-.container {
-  enable-background:new 0 0 841.9 595.3;
-  height: 100%;
-  width: 100%;
+#Layer_1 {
+  enable-background: new 0 0 1000 1000;
 }
 
 .st0 {
-  animation: sign 1s ease;
-  animation-fill-mode: forwards;
+  display: none;
 }
-
-@keyframes sign {
-  to {
-    stroke-dashoffset: 0;
-  }
+.st1 {
+  display: inline;
 }
-
-#signature1 {
-  stroke-dasharray: 394;
-  stroke-dashoffset: 394;
-  animation-delay: 0s;
+.st2 {
+  fill: #ffffff;
 }
-
-#signature2 {
-  stroke-dasharray: 501;
-  stroke-dashoffset: 501;
-  animation-delay: 1s;
-}
-
-#signature3 {
-  stroke-dasharray: 312;
-  stroke-dashoffset: 312;
-  animation-delay: 1.5s;
-}
-
-#signature4 {
-  stroke-dasharray: 258;
-  stroke-dashoffset: 258;
-  animation-delay: 2s;
-}
-
-#signature5 {
-  stroke-dasharray: 316;
-  stroke-dashoffset: 316;
-  animation-delay: 3s;
+.st3 {
+  fill: #242424;
 }
