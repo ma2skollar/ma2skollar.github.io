@@ -3,15 +3,14 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  --origin-g1: 32.1%;
+  --origin-g2: 65.5%;
 }
 
 #Layer_1 {
   enable-background: new 0 0 1000 1000;
 }
 
-.st0 {
-  display: none;
-}
 .st1 {
   display: inline;
 }
@@ -20,4 +19,27 @@
 }
 .st3 {
   fill: #242424;
+}
+
+.group1 {
+  transform-origin: var(--origin-g1) var(--origin-g1);
+  animation: rotate 8s infinite linear;
+}
+
+.group2 {
+  transform-origin: var(--origin-g2) var(--origin-g2);
+  animation: rotate 8s infinite linear reverse;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
+footer {
+  
 }
