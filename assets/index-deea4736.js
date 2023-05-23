@@ -211,4 +211,4 @@ Error generating stack: `+o.message+`
 			c-80.4-0.4-145.8,64.5-146,144.8c-0.2,80.5,64.5,145.8,144.8,146.1C732.9,800.5,798.2,735.3,798.3,654.8z`}),Q.jsx("path",{className:"st2",d:`M798.3,654.8c-0.1,80.5-65.4,145.7-145.6,145.4c-80.3-0.3-145-65.6-144.8-146.1\r
 			c0.2-80.3,65.6-145.2,146-144.8C733.7,509.6,798.4,574.9,798.3,654.8z M775,654.3c-0.3-67.2-55.1-121.8-122.2-121.5\r
 			c-67.1,0.2-121.5,55-121.3,122.4c0.1,67.1,55.2,121.9,122.2,121.6C720.8,776.4,775.3,721.4,775,654.3z`}),Q.jsx("path",{className:"st3",d:`M775,654.3c0.3,67.1-54.2,122.1-121.4,122.4c-67,0.3-122-54.5-122.2-121.6c-0.1-67.4,54.2-122.2,121.3-122.4\r
-			C719.9,532.5,774.7,587.1,775,654.3z`})]})]})}),Q.jsx("footer",{children:Q.jsx("p",{children:"Copyright © 2023 All rights reserved. | Matúš Kollár"})})]})}Wl.createRoot(document.getElementById("root")).render(Q.jsx(w1.StrictMode,{children:Q.jsx(T0,{})}));
+			C719.9,532.5,774.7,587.1,775,654.3z`})]})]})}),Q.jsx("footer",{children:Q.jsx("p",{children:"Copyright © 2023 All rights reserved. Matúš Kollár"})})]})}Wl.createRoot(document.getElementById("root")).render(Q.jsx(w1.StrictMode,{children:Q.jsx(T0,{})}));
