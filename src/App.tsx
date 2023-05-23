@@ -231,7 +231,7 @@ function App() {
         </svg>
       </div>
 	  <footer>
-		<p>Copyright © 2023 All rights reserved. | Matúš Kollár</p>
+		<p>Copyright © 2023 All rights reserved. Matúš Kollár</p>
 	  </footer>
     </>
   );
