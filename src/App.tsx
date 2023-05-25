@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h3>Portfolio Under Construction</h3>
+      <h1>Portfolio Under Construction</h1>
       <div className="cogwheels">
         <svg
           version="1.1"

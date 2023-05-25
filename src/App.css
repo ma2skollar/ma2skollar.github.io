@@ -11,6 +11,10 @@
   enable-background: new 0 0 1000 1000;
 }
 
+h1 {
+  font-size: 1.5rem;
+}
+
 .st1 {
   display: inline;
 }
@@ -41,5 +45,5 @@
 }
 
 footer {
-  
+  font-size: 0.8rem;
 }
