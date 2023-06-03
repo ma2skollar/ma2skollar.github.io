@@ -2,8 +2,6 @@ import { useEffect, useState } from "react";
 import "./App.css";
 
 function App() {
-	const left = document.querySelector("#left-side");
-
 	const [mouseX, setMouseX] = useState(0);
 
 	useEffect(() => {
