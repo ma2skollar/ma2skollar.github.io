@@ -18,6 +18,7 @@ function App() {
 	<>
       <div className="side" id="left-side" style={{width: `${mouseX}px`}}>
         <h1>Portfolio Under Construction</h1>
+		<p>While this portfolio is being built, check out <a href="https://digital.blackwater.sk">Blackwater Digital</a>.</p>
         <div className="cogwheels">
           <svg
             version="1.1"
@@ -245,11 +246,12 @@ function App() {
           </svg>
         </div>
         <footer>
-          <p>Copyright © 2023 All rights reserved. Matúš Kollár</p>
+          <p>Copyright © 2025 All rights reserved. Matúš Kollár</p>
         </footer>
       </div>
       <div className="side" id="right-side">
         <h1>Portfolio Under Construction</h1>
+		<p>While this portfolio is being built, check out <a href="https://digital.blackwater.sk">Blackwater Digital</a>.</p>
         <div className="cogwheels">
           <svg
             version="1.1"
@@ -477,7 +479,7 @@ function App() {
           </svg>
         </div>
         <footer>
-          <p>Copyright © 2023 All rights reserved. Matúš Kollár</p>
+          <p>Copyright © 2025 All rights reserved. Matúš Kollár</p>
         </footer>
       </div>
     </>

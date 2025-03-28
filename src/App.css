@@ -35,7 +35,11 @@
 }
 
 .side > h1 {
-  margin-top: -400px;
+  margin-top: -640px;
+}
+
+.side > p {
+  margin-top: -460px;
 }
 
 .side > footer {
@@ -52,9 +56,17 @@ footer > p {
   z-index: 2;
 }
 
+#left-side a {
+  color: #fcfcfc;
+}
+
 #right-side {
   color: #242424;
   background-color: #fcfcfc;
+}
+
+#right-side a {
+  color: #242424;
 }
 
 h1 {
